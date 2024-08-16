@@ -1,0 +1,1 @@
+This is a pet project, the main objective is to create a website with recipes.
